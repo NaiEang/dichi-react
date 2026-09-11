@@ -6,7 +6,7 @@ A React profile page built with Vite featuring a dynamic status badge based on c
 
 1. Clone the repository:
 ```
-git clone 
+git clone https://github.com/NaiEang/dichi-react.git
 cd profile-app
 ```
 2. Install dependencies:
